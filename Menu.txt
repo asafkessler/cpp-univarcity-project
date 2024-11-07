@@ -1,0 +1,19 @@
+
+
+     /,-.		*******************************
+    // /|           	
+   // / |           # 1 - I am a new student in the university.
+  (O <__|__         
+  |\\ \    |        
+  | \\ \   |	    # 2 - I am a new teacher in the university.				
+  |  \`-`  |        
+  |   | |  |           
+  |   | |__|        # 3 - Run A Day In The University.
+   \  | |           
+    \ | |           
+     \|-'           # 4 - Get University System Status.
+		
+		    
+		    # 5 - Exit.	
+
+			Pls type your choice and press enter:

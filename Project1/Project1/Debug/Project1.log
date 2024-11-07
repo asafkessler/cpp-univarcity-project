@@ -1,0 +1,11 @@
+﻿Build started 11/01/2018 10:33:08.
+     1>Project "Z:\_CPP_18_01_07\public\Asaf Kessler\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StaticVarBeggining.cpp
+         StaticVarBeggining.cpp
+     1>z:\_cpp_18_01_07\public\asaf kessler\project1\project1\staticvarbeggining.cpp(9): error C2105: '++' needs l-value
+     1>Done Building Project "Z:\_CPP_18_01_07\public\Asaf Kessler\Project1\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.70
